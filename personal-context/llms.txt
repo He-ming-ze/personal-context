@@ -1,0 +1,28 @@
+# personal-context
+
+> 何栋1 的公开个人上下文库。给 AI 读：先读 README.md，再按本清单只取需要的那几份。最后更新 2026-10-22。
+
+## 入口
+
+- [README.md](README.md): 30 秒总览，任何情况下先读。
+- [AGENTS.md](AGENTS.md): 读取协议与引用规则，决定你怎么用这些内容。
+- [PROFILE.md](PROFILE.md): 稳定事实——称呼、语言、时区、沟通与交付偏好、禁忌。
+- [NOW.md](NOW.md): 最近在做什么，会过期，看 updated 字段。
+
+## 主题
+
+- [topics/workflow.md](topics/workflow.md): 跟我协作的规则与验收标准，写代码或给结论前读。
+- [topics/environment.md](topics/environment.md): Windows 机器、Node 版本、DSH 与插件、目录约定。
+- [topics/reading.md](topics/reading.md): 在读书目，判断我的知识背景（当前为空）。
+
+## 项目
+
+- [projects/README.md](projects/README.md): 项目索引与单项目模板。
+
+## 维护
+
+- [MAINTAINING.md](MAINTAINING.md): 给人看的操作手册——首次导入 GitHub、日常增改、发布前自检。
+
+## 边界
+
+- [privacy.md](privacy.md): 哪些信息故意公开、哪些永不出现、提交前自检命令。
